@@ -1,0 +1,15 @@
+api_key = your key
+api_secret = your secret
+block_size = 30
+date = 360
+coin1 = SOL
+coin2 = USDT
+clines_time = 1WEEK
+time_for_cycle_in_minutes = 10080
+population_size = 20
+num_generations = 20
+mutation_rate = 0.4
+best_individual_path = choose your path
+model_path = choose your path
+average_upper_shadow = 353.7640416666669
+average_down_shadow = 407.4290000000005
